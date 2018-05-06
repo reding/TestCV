@@ -3,8 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/TestCV.iml" filepath="$PROJECT_DIR$/TestCV.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestCV.iml" filepath="$PROJECT_DIR$/TestCV.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/cvjava/cvjava.iml" filepath="$PROJECT_DIR$/cvjava/cvjava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cvjava/cvjava.iml" filepath="$PROJECT_DIR$/cvjava/cvjava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cvlib/cvlib.iml" filepath="$PROJECT_DIR$/cvlib/cvlib.iml" />
     </modules>
   </component>
 </project>
